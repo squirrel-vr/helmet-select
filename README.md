@@ -3,7 +3,7 @@
 ## Зміст
 - Швидкі відповіді
 - Порівняння шоломів
-  - Quest 2
+  - [Quest 2](#quest-2)
   - Quest 3
   - Quest Pro
   - Pico 4
